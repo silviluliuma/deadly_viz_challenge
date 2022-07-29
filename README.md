@@ -16,7 +16,7 @@ You may use any of the following visualization libraries:
 
 - Plotly (Cufflinks / Plotly Express / Dash)
 
-> __NOTE:__ we encourage you to use __Plotly__ because interactive plots rules!
+> __NOTE:__ we encourage you to use __Plotly__ (with `cufflinks` in particular) because interactive plots rules!
 
 ---
 
@@ -32,8 +32,7 @@ Your visualizations must generate insights about:
 
 - The relationship between the different causes of death and the demographics.
 
-> __IMPORTANT:__ Analytics is not marketing. The difference is that analytics is about expanding the decision-maker’s perspective while marketing is about narrowing it. Similarly, data journalism is about capturing the interest of many people in a small way, while analytics is about serving the needs of a few people in a big way. The analyst serves their decision-maker(s) first and foremost. 
-
+> __IMPORTANT:__ Analytics is not marketing. The difference is that analytics is about expanding the decision-maker’s perspective while marketing is about narrowing it. Similarly, data journalism is about capturing the interest of many people in a small way, while analytics is about serving the needs of a few people in a big way. The analyst serves their decision-maker(s) first and foremost.
 
 ---
 
